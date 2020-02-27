@@ -1,6 +1,6 @@
 ---
 hero:
-  heading: Title here!
+  heading: Heimdall
   maxWidthPX: "652"
 
 ---
