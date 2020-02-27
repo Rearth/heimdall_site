@@ -1,7 +1,7 @@
 ---
 title: What is Heimdall?
-date: 2020-02-27T00:00:00+01:00
-hero: "/images/a1790286667_10.jpg"
+date: 2020-02-26T23:00:00.000+00:00
+hero: "/images/a1790286667_10 (2).jpg"
 excerpt: Heimdall is a Software-Engineering project made for the 'Games' Class at
   the DHBW Karlsruhe.
 timeToRead: 3
