@@ -5,7 +5,8 @@ hero: "/images/a1790286667_10 (3).jpg"
 excerpt: Heimdall is a Software-Engineering project made for the 'Games' Class at
   the DHBW Karlsruhe.
 timeToRead: 3
-authors: []
+authors:
+- David Waidner
 
 ---
 Heimdall is a Software-Engineering project made for the 'Games' Class at the DHBW Karlsruhe.
