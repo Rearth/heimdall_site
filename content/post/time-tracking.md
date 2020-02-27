@@ -1,6 +1,6 @@
 +++
 authors = ["David Waidner"]
-date = ""
+date = 2020-02-26T23:00:00Z
 excerpt = "To track the time we put into the project, we'll be using a google sheet."
 hero = "/images/google-sheets-logo.jpg"
 timeToRead = 1
