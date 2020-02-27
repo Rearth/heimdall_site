@@ -1,6 +1,7 @@
 +++
 avatar = ""
-bio = "Computer Science Student at the DHBW Karlsruhe, one of the main developers working on the 'Heimdall' Project"
+bio = "CS student at the DHBW"
+draft = true
 featured = true
 social = []
 title = "David Waidner"
