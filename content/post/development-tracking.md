@@ -1,6 +1,6 @@
 +++
 authors = []
-date = ""
+date = 2020-03-01T23:36:00Z
 excerpt = ""
 hero = "/images/trello-logo.png"
 timeToRead = 1
