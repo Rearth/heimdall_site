@@ -41,4 +41,5 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/development-tracking.md
 - content/post/time-tracking.md
