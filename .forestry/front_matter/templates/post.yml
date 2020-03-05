@@ -42,4 +42,5 @@ fields:
   label: Authors
 pages:
 - content/post/development-tracking.md
+- content/post/development-update-initial.md
 - content/post/time-tracking.md
