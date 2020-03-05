@@ -1,7 +1,6 @@
 +++
 authors = ["David Waidner", "Timo Sickinger"]
 date = 2020-03-04T23:00:00Z
-draft = true
 excerpt = "In our first sprint, we set up the most important systems of the game, the buildings and the spawning of the enemy minion hordes."
 hero = "/images/portals_initial.PNG"
 timeToRead = 10
@@ -44,11 +43,19 @@ We also added new models for the portals, added a "portal"-effect to the middle 
 
 It's now possible to build towers to defend the base. With the help of a ShaderGraph the preview of the tower is being highlighted green if the tower can be placed, or red if it can't.
 
-![](/images/highlight_green.PNG)
+![](/images/highlight_green.PNG "Green-Highlight")
 
-![](/images/cannon_lvl1.PNG)
+![](/images/highlight_red.PNG)
 
-@Timo hier kommt dein content hin (bezüglich den towern und so)
+Additionally the placed towers are upgradable if they are selected and the player has enough coins to purchase the next upgrade. To visualize the currently selected tower the ShaderGraph for highlighting is applied with a blue color.
+
+![](/images/highlight_blue.PNG) 
+
+To start off we implemented two types of towers (cannon and fire) with two upgrades and a different model each.
+
+![](/images/cannon_lvl1-1.PNG)![](/images/cannon_lvl2-1.PNG)
+
+![](/images/fire_lvl1.PNG)![](/images/fire_lvl2.PNG)
 
 ## Next steps:
 
