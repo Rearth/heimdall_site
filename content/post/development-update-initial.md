@@ -49,7 +49,7 @@ It's now possible to build towers to defend the base. With the help of a ShaderG
 
 Additionally the placed towers are upgradable if they are selected and the player has enough coins to purchase the next upgrade. To visualize the currently selected tower the ShaderGraph for highlighting is applied with a blue color.
 
-![](/images/highlight_blue.PNG) 
+![](/images/highlight_blue-1.PNG)
 
 To start off we implemented two types of towers (cannon and fire) with two upgrades and a different model each.
 
