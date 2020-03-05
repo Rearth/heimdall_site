@@ -1,7 +1,6 @@
 +++
 authors = ["David Waidner", "Timo Sickinger"]
 date = 2020-03-04T23:00:00Z
-draft = true
 excerpt = "In our first sprint, we set up the most important systems of the game, the buildings and the spawning of the enemy minion hordes."
 hero = "/images/portals_initial.PNG"
 timeToRead = 10
