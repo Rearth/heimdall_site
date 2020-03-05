@@ -23,11 +23,11 @@ Since we want to have thousands of enemy minions at a time, they present the mos
 
 ## Minion Navigation
 
-The navigation system of the DOTS is sadly still in an early stage. We can do pathfinding for each minion individually without a huge performance loss, but the DOTS solution does not allow local avoidance of the minions yet. To still enable this in our project, we wrote our orw, primitive local avoidance. This is not as good as as any of the other solutions that are on the market right now, but it is "good enough" for out case, and it works with DOTS. Sometimes it still produces some weird results:
+The navigation system of the DOTS is sadly still in an early stage. We can do pathfinding for each minion individually without a huge performance loss, but the DOTS solution does not allow local avoidance of the minions yet. To still enable this in our project, we wrote our orw, primitive local avoidance. This is not as good as as any of the other solutions that are on the market right now, but it is "good enough" for out case, and it works with DOTS. At the begin it did produce some weird results:
 
 ![](/images/ezgif.com-crop (2).gif)
 
-But since there's so many minions, the player will barely notice it if there are 2 minions too close to each other.
+However, we've made further improvement to the local avoidance system. It's still far from perfect, ut since there's so many minions, the player will barely notice it if there are 2 minions too close to each other.
 
 ## New Minion Visuals
 
