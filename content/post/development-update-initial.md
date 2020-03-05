@@ -39,6 +39,14 @@ We also added new models for the portals, added a "portal"-effect to the middle 
 
 ![](/images/portals_initial.PNG)
 
+## Defence-System with Upgrades
+
+It's now possible to build towers to defend the base. With the help of a ShaderGraph the preview of the tower is being highlighted green if the tower can be placed, or red if it can't.
+
+![](/images/highlight_green.PNG)
+
+![](/images/cannon_lvl1.PNG)
+
 @Timo hier kommt dein content hin (bezüglich den towern und so)
 
 ## Next steps:
